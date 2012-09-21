@@ -1,7 +1,6 @@
 # Sublime Text 2 - mreq theme
 
 Custom dark theme based on my own [Notepad++ theme](https://github.com/mreq/NPP-dark-theme).
-Dark/Cool UI theme for Sublime Text 2 based on [Cube2Media](http://cube2media.com) ([@DevEngine](https://twitter.com/DevEngine).
 
 ## Installation
 
