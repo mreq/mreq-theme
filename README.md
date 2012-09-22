@@ -15,16 +15,16 @@ Just search for `mreq-theme` in the package list.
 ## Samples
 
 ### Coffee
-![Coffee](http://dl.dropbox.com/u/36477239/github_img/mreq_coffee.png "Coffee")
+![Coffee](http://dl.dropbox.com/u/36477239/github_img/mreq-coffee.png "Coffee")
 ### LESS
-![LESS](http://dl.dropbox.com/u/36477239/github_img/mreq_less.png "LESS")
+![LESS](http://dl.dropbox.com/u/36477239/github_img/mreq-less.png "LESS")
 ### HAML
-![HAML](http://dl.dropbox.com/u/36477239/github_img/mreq_haml.png "HAML")
+![ERB](http://dl.dropbox.com/u/36477239/github_img/mreq-erb.png "HAML")
 ### HTML
-![HTML](http://dl.dropbox.com/u/36477239/github_img/mreq_html.png "HTML")
+![HTML](http://dl.dropbox.com/u/36477239/github_img/mreq-html.png "HTML")
 ### JS
-![JS](http://dl.dropbox.com/u/36477239/github_img/mreq_js.png "JS")
+![JS](http://dl.dropbox.com/u/36477239/github_img/mreq-js.png "JS")
 ### RUBY
-![RUBY](http://dl.dropbox.com/u/36477239/github_img/mreq_ruby.png "RUBY")
+![RUBY](http://dl.dropbox.com/u/36477239/github_img/mreq-ruby.png "RUBY")
 ### PHP
-![PHP](http://dl.dropbox.com/u/36477239/github_img/mreq_php.png "PHP")
+![PHP](http://dl.dropbox.com/u/36477239/github_img/mreq-php.png "PHP")
