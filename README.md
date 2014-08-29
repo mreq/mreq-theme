@@ -18,8 +18,8 @@ Just search for `mreq-theme` in the package list.
 ![Coffee](http://dl.dropbox.com/u/36477239/github_img/mreq-coffee.png "Coffee")
 ### LESS
 ![LESS](http://dl.dropbox.com/u/36477239/github_img/mreq-less.png "LESS")
-### HAML
-![ERB](http://dl.dropbox.com/u/36477239/github_img/mreq-erb.png "HAML")
+### ERB
+![ERB](http://dl.dropbox.com/u/36477239/github_img/mreq-erb.png "ERB")
 ### HTML
 ![HTML](http://dl.dropbox.com/u/36477239/github_img/mreq-html.png "HTML")
 ### JS
