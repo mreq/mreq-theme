@@ -1,0 +1,21 @@
+@name "mreq_light"
+
+@uuid D8D5E82E-3D5B-46B5-B38E-8C841C21347D
+
+$background: #FCF8ED
+$foreground: #181818
+$lineHighlight: darken($background, 10%)
+
+$selectionBackground: darken($background, 25%)
+$selectionForeground: $foreground
+$comment: #D9D0B8
+$invisibles: $comment
+
+$orange: #c59c70
+$blue: #6facbe
+$green: #64be81
+$purple: #bf5aab
+$red: #cb4b16
+$yellow: #b58900
+
+@import 'mreq-rules'

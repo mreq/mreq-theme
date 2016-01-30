@@ -1,0 +1,141 @@
+*
+  background: $background
+  bracketContentsOptions: underline
+  bracketsOptions: underline
+  caret: $foreground
+  // findHighlight: #FFE792
+  // findHighlightForeground: #000000
+  foreground: $foreground
+  invisibles: $invisibles
+  lineHighlight: $lineHighlight
+  selection: $selectionBackground
+  selectionBorder: lighten($selectionBackground, 10%)
+  selectionForeground: $selectionForeground
+  tagsOptions: stippled_underline
+
+comment
+  @name "Comment"
+  foreground: $comment
+  &.punctuation.comma.sass
+    @name "sass commas and media query 'and'"
+    foreground: $foreground
+
+string
+  @name "String"
+  foreground: $orange
+
+constant
+  &.numeric
+    @name "Number"
+    foreground: $blue
+    // &.line-number.find-in-files
+    //   foreground: #AE81FF
+  &.language
+    @name "Built-in constant"
+    foreground: $green
+  &.character, &.other
+    @name "User-defined constant"
+    foreground: $green
+
+keyword
+  @name "Keyword"
+  foreground: $red
+  &.control.html.elements
+    @name "keyword.control.html.elements"
+    foreground: $orange
+
+entity
+  &.name
+    &.class
+      @name "Class name"
+      foreground: $green
+    &.function
+      @name "Function name"
+      foreground: $red
+    &.tag
+      @name "Tag name"
+      foreground: $red
+    &.filename
+      &.find-in-files
+        foreground: $yellow
+  &.other
+    &.inherited-class
+      @name "Inherited class"
+      foreground: $green
+    &.attribute-name
+      @name "Tag attribute"
+      foreground: $yellow
+      &.id
+        @name "entity.other.attribute-name.id"
+        foreground: $red
+      &.class
+        @name "entity.other.attribute-name.class"
+        foreground: $red
+
+variable
+  @name "Variable"
+  foreground: $purple
+  &.parameter
+    @name "Function argument"
+    foreground: $orange
+  &.other
+    &.less
+      @name "variable.other.less"
+      foreground: $purple
+
+support
+  &.function
+    @name "Library function"
+    foreground: $blue
+    &.less
+      @name "support.function.less"
+      foreground: $green
+    &.any-method.builtin.css
+      @name "support.function.any-method.builtin.css"
+      foreground: $green
+  &.constant
+    @name "Library constant"
+    foreground: $blue
+    &.property-value.css
+      @name "support.constant.property-value.css"
+      foreground: $foreground
+    &.color.w3c-standard-color-name.css
+      @name "support.constant.color.w3c-standard-color-name.css"
+      foreground: $foreground
+  &.type
+    @name "Library class/type"
+    foreground: $yellow
+  &.class
+    @name "Library class/type"
+    foreground: $yellow
+
+invalid
+  @name "Invalid"
+  foreground: $red
+
+meta
+  &.structure.dictionary.json string.quoted.double.json
+    @name "JSON String"
+    foreground: $orange
+  &.diff
+    &,.header
+      @name "diff.header"
+      foreground: $comment
+
+markup
+  &.deleted
+    @name "diff.deleted"
+    foreground: $red
+  &.inserted
+    @name "diff.inserted"
+    foreground: $green
+  &.changed
+    @name "diff.changed"
+    foreground: $yellow
+
+source
+  &.embedded
+    background: darken($background, 5%)
+  &.r
+    &.embedded
+      background: darken($background, 5%)
