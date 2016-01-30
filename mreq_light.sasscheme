@@ -8,7 +8,7 @@ $lineHighlight: darken($background, 10%)
 
 $selectionBackground: darken($background, 25%)
 $selectionForeground: $foreground
-$comment: #D9D0B8
+$comment: #D4C8A9
 $invisibles: $comment
 
 $orange: #c59c70

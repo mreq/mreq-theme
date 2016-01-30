@@ -1,6 +1,6 @@
-# Sublime Text 2 - mreq theme
+# Sublime Text - mreq theme
 
-Custom dark theme based on my own [Notepad++ theme](https://github.com/mreq/NPP-dark-theme).
+Custom dark & light themes based on my own [Notepad++ theme](https://github.com/mreq/NPP-dark-theme).
 
 ## Installation
 
@@ -14,17 +14,11 @@ Just search for `mreq-theme` in the package list.
 
 ## Samples
 
-### Coffee
-![Coffee](http://dl.dropbox.com/u/36477239/github_img/mreq-coffee.png "Coffee")
-### LESS
-![LESS](http://dl.dropbox.com/u/36477239/github_img/mreq-less.png "LESS")
-### ERB
-![ERB](http://dl.dropbox.com/u/36477239/github_img/mreq-erb.png "ERB")
-### HTML
-![HTML](http://dl.dropbox.com/u/36477239/github_img/mreq-html.png "HTML")
-### JS
-![JS](http://dl.dropbox.com/u/36477239/github_img/mreq-js.png "JS")
-### RUBY
-![RUBY](http://dl.dropbox.com/u/36477239/github_img/mreq-ruby.png "RUBY")
-### PHP
-![PHP](http://dl.dropbox.com/u/36477239/github_img/mreq-php.png "PHP")
+### coffee
+[[https://github.com/username/repository/blob/master/samples/coffee.png|alt=coffee]]
+
+### ruby
+[[https://github.com/username/repository/blob/master/samples/ruby.png|alt=ruby]]
+
+### html
+[[https://github.com/username/repository/blob/master/samples/html.png|alt=html]]
