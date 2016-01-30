@@ -15,10 +15,10 @@ Just search for `mreq-theme` in the package list.
 ## Samples
 
 ### coffee
-[[https://github.com/username/repository/blob/master/samples/coffee.png|alt=coffee]]
+![coffee](https://raw.githubusercontent.com/mreq/mreq-theme/master/samples/coffee.png "coffee")
 
 ### ruby
-[[https://github.com/username/repository/blob/master/samples/ruby.png|alt=ruby]]
+![ruby](https://raw.githubusercontent.com/mreq/mreq-theme/master/samples/ruby.png "ruby")
 
 ### html
-[[https://github.com/username/repository/blob/master/samples/html.png|alt=html]]
+![html](https://raw.githubusercontent.com/mreq/mreq-theme/master/samples/html.png "html")
