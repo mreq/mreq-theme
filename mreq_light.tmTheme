@@ -10,7 +10,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#fcf8ed</string>
+				<string>#FCF8ED</string>
 				<key>bracketContentsOptions</key>
 				<string>underline</string>
 				<key>bracketsOptions</key>
@@ -20,13 +20,13 @@
 				<key>foreground</key>
 				<string>#181818</string>
 				<key>invisibles</key>
-				<string>#d4c8a9</string>
+				<string>#D4C8A9</string>
 				<key>lineHighlight</key>
 				<string>#f5e7c1</string>
 				<key>selection</key>
-				<string>#eacd80</string>
+				<string>#eace80</string>
 				<key>selectionBorder</key>
-				<string>#f1deab</string>
+				<string>#f1dfab</string>
 				<key>selectionForeground</key>
 				<string>#181818</string>
 				<key>tagsOptions</key>
@@ -41,7 +41,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d4c8a9</string>
+				<string>#D4C8A9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -335,8 +335,10 @@
 			<string>invalid</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#e81034</string>
 				<key>foreground</key>
-				<string>#cb4b16</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -358,7 +360,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d4c8a9</string>
+				<string>#D4C8A9</string>
 			</dict>
 		</dict>
 		<dict>

@@ -335,8 +335,10 @@
 			<string>invalid</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#e81034</string>
 				<key>foreground</key>
-				<string>#ca7473</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
