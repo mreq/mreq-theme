@@ -4,7 +4,7 @@
 
 $background: #181818
 $foreground: #c4c4c4
-$lineHighlight: darken($background, 10%)
+$lineHighlight: lighten($background, 7.5%)
 
 $selectionBackground: $foreground
 $selectionForeground: $background
