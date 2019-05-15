@@ -19,5 +19,6 @@ $purple: #b678a9
 $red: #ca7473
 $yellow: #c1bb71
 
+$blockCaret: rgba($foreground, 0.4)
 
 @import 'mreq-rules'

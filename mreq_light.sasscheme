@@ -6,7 +6,7 @@ $background: #FCF8ED
 $foreground: #181818
 $lineHighlight: darken($background, 10%)
 
-$selectionBackground: darken($background, 25%)
+$selectionBackground: darken($background, 33%)
 $selectionForeground: $foreground
 $comment: #D4C8A9
 $invisibles: $comment
@@ -18,5 +18,7 @@ $green: #64be81
 $purple: #bf5aab
 $red: #cb4b16
 $yellow: #b58900
+
+$blockCaret: darken($lineHighlight, 25%)
 
 @import 'mreq-rules'

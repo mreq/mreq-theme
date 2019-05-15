@@ -11,6 +11,8 @@
 			<dict>
 				<key>background</key>
 				<string>#FCF8ED</string>
+				<key>block_caret</key>
+				<string>#e3bd54</string>
 				<key>bracketContentsOptions</key>
 				<string>underline</string>
 				<key>bracketsOptions</key>
@@ -24,9 +26,9 @@
 				<key>lineHighlight</key>
 				<string>#f5e7c1</string>
 				<key>selection</key>
-				<string>#eace80</string>
+				<string>#e4c05d</string>
 				<key>selectionBorder</key>
-				<string>#f1dfab</string>
+				<string>#ebd188</string>
 				<key>selectionForeground</key>
 				<string>#181818</string>
 				<key>tagsOptions</key>
